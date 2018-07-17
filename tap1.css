@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container-fluid .phong {
   height: 600px;
   background: #aad4ff;
@@ -85,4 +86,9 @@
 }
 .container-fluid .phong .box2 a {
   text-decoration: none;
+=======
+.container-fluid .son {
+  background: green;
+  height: 500px;
+>>>>>>> son
 }
